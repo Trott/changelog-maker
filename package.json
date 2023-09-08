@@ -31,7 +31,7 @@
     "pkg-to-id": "0.0.3",
     "remark": "^14.0.1",
     "remark-parse": "^10.0.0",
-    "remark-preset-lint-node": "^3.2.0",
+    "remark-preset-lint-node": "^4.0.0",
     "remark-stringify": "^10.0.0",
     "split2": "^4.0.0",
     "strip-ansi": "^6.0.0"
